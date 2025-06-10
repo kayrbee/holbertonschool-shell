@@ -1,0 +1,1 @@
+Practising simple bash scripting
